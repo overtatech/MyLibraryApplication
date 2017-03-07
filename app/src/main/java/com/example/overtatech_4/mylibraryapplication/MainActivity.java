@@ -18,7 +18,7 @@ public class MainActivity extends AppCompatActivity {
 
     public void onClick(View view){
         // Show toast from lib
-        LibActivity.showToast(this,"Hello from Lib");
+        LibActivity.showToast(this,"Hello_____________________from Lib");
 
     }
 }
